@@ -1,12 +1,12 @@
 .a3{
-  background: #e52d27;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #b31217, #e52d27);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #b31217, #e52d27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #e52d27;
+background: -webkit-linear-gradient(to right, #b31217, #e52d27);
+background: linear-gradient(to right, #b31217, #e52d27);
 
 color: white;
 font-family: 'Mandali', sans-serif;
 font-size: 18px;
 margin-top: 3px;
-/* width:80px; */
+ 
 
 }

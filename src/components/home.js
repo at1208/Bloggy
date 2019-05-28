@@ -9,6 +9,7 @@ const Home = () => {
     <HeaderTitle />
     <Link to='/addpost'>
     <AddButton name='Add Post'/>
+  
       </Link>
 
     </div>
